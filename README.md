@@ -1,4 +1,4 @@
-# Spam_Filter
+# Spam Classifier
 
 Using NLP to create a spam filter
 
