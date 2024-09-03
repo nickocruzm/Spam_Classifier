@@ -23,3 +23,4 @@ Using NLP to create a spam filter
 Data above illustrates:
 - Majority of the ham messages have a length between 50 to 100.
 - Majority of the spam messages occur closer to the 150 message length.
+
